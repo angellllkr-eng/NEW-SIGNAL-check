@@ -1,0 +1,42 @@
+# Project TODO
+
+- [x] Inspect the existing project routes, components, database schema, and current design system without changing production data.
+- [x] Establish private-by-default access controls and owner-only administration for sensitive operational content.
+- [x] Add a source-artifact model that stores secure references, provenance, sensitivity, freshness, and retention metadata without storing file bytes.
+- [x] Add evidence, claim, incident, product initiative, repository/deployment, decision, and task data models with source links and confidence states.
+- [x] Implement typed protected backend procedures for reading and managing the operational data model.
+- [x] Add transparent priority scoring for security exposure, revenue proximity, market evidence, release readiness, blockers, confidence, and effort.
+- [x] Build the authenticated Today command center with priority queue, incident status, stale-evidence alerts, release blockers, and source freshness.
+- [x] Build the A11 product page with verified narrative, evidence timeline, dependencies, risks, and milestones.
+- [x] Build the portfolio and revenue view for A11, Premium Agent, Reseller Pro, MindReply, and related initiatives.
+- [x] Build the incident room with a chronology, linked evidence, impact, severity, containment checklist, and decision record.
+- [x] Build the delivery-health view for repositories, deployments, environments, build status, and release blockers.
+- [x] Build the evidence library with searchable sensitivity-labelled artifacts, evidence relationships, and source drill-downs.
+- [x] Build the decisions and queue view with priority rationale, ownership, due dates, dependencies, and status.
+- [x] Build the research-center shell with source status and gated workflows for content, traffic, SEO, keyword, backlink, financial, and public-footprint research.
+- [x] Inventory connected Google Drive, GitHub, Vercel, project, and public-web sources in read-only mode and preserve provenance.
+- [x] Produce a baseline project and source-inventory brief with verified facts, unavailable integrations, risks, and data gaps.
+- [x] Produce an evidence-led A11 current-state brief and a Reseller Pro/repository release-blocker brief from verified sources.
+- [x] Add linked source evidence and a decision-record section to the incident room.
+- [x] Add source-to-claim and source-to-incident relationship views to the evidence library.
+- [x] Add dated evidence milestones to the private A11 product brief.
+- [x] Create separate baseline-inventory and Reseller Pro/repository release-blocker briefs.
+- [x] Add robust loading, empty, permission-denied, and integration-unavailable states across all command-center pages.
+- [x] Write and run Vitest coverage for protected procedures, priority scoring, and core data-handling behavior.
+- [x] Validate schema migrations, role access, data integrity, responsive UI, type checking, and application build before checkpointing.
+- [ ] Save a verified private-release checkpoint and provide the published project version to the user.
+- [x] Provide safe guidance on the backup-notification email and avoid changing recovery contact details without confirmation of access.
+- [x] Triage the reported browser/login slowdown and distinguish the Google advertisement panel from sign-in or account-security behavior.
+- [ ] Capture a permissible independent source for the exact backup-email prompt wording before treating the guidance as fully audited.
+- [ ] Collect the affected site, exact failure behavior, and reproducible steps if the login slowdown continues before assigning a technical root cause.
+- [x] Create an isolated private A11 workspace route, navigation identity, and owner-only entry point within the managed application.
+- [x] Add A11 agent-job records with explicit purpose, input reference, Manus task identifier, lifecycle state, output reference, and audit timestamps.
+- [x] Implement a bounded owner-started Manus API v2 delegation flow with no automatic action confirmations.
+- [x] Build the A11 Today, Evidence, Incidents, Portfolio, Delivery Health, Decisions, and Agent Runs workspace views.
+- [ ] Add provenance-first workflows that convert sources into incidents, decisions, tasks, and agent research requests without presenting unverified claims as facts.
+- [ ] Add a direct source-to-agent research handoff with explicit owner confirmation and preserved source IDs.
+- [x] Add tests for A11 authorization, priority scoring, agent-job state transitions, and failure handling.
+- [x] Produce the A11 current-state brief and desktop-companion decision record after private release validation.
+- [x] Run and record data-integrity validation for A11 claims, decisions, priority fields, sources, and agent-job records.
+- [x] Add and run positive-owner plus non-owner mutation authorization coverage for protected A11 procedures.
+- [x] Add auditable owner and non-owner access coverage for A11 claim and decision mutations before checkpointing.

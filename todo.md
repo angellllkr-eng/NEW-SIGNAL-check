@@ -1,0 +1,49 @@
+# Revenue-first launch checklist
+
+- [x] Remove the Antigravity name from all public copy, metadata, assets, and routes; use neutral accounting and operations language until a final brand is supplied.
+- [x] Define the primary ICP segments by business stage, operating complexity, and urgency using verified source material or clearly labelled working assumptions.
+- [x] Define the ECP by buyer role, economic trigger, budget logic, expected value, and buying friction without inventing financial outcomes.
+- [x] Map each ICP/ECP segment to one offer, one landing-page message, one CTA, and one follow-up route.
+- [x] Choose a CRM-ready lead schema with source, segment, need, urgency, diagnostic score, consent, and next action fields.
+- [x] Add CRM handoff documentation and a safe no-integration fallback until an approved CRM connector is available.
+- [x] Define a CRO test matrix for hero CTA, diagnostic CTA, offer framing, form length, and result-page handoff.
+- [x] Add baseline conversion event names and a measurement plan for CTA clicks, diagnostic starts, completions, and qualified handoffs.
+- [x] Turn each diagnostic result into a shareable Signal Map with friction summary, next conversation, and a practical 7-day move.
+- [x] Make the Signal Map printable or downloadable without sending private business data to an external service.
+- [x] Add a consent-aware follow-up handoff so a visitor can share the Signal Map with an advisor or CRM when an approved destination exists.
+- [ ] Confirm the approved primary revenue path: discovery call, paid diagnostic, monthly accounting engagement, or another verified offer.
+- [x] Replace generic CTAs with a specific, source-supported commercial action and clear expectation of what happens next.
+- [ ] Define offer tiers or service packages only from verified capabilities and scope; do not invent pricing, credentials, or outcomes.
+- [x] Add a qualification path that captures business stage, current need, and urgency without collecting sensitive financial data in the static frontend.
+- [x] Connect the contact action to an approved secure email, booking, CRM, or form destination before collecting live enquiries.
+- [ ] Add high-intent service landing pages and internal links for the most valuable verified search topics.
+- [x] Add conversion events for primary CTA clicks, diagnostic starts, diagnostic completion, and booking/email handoff if analytics is approved.
+- [ ] Add an evidence section using only verified credentials, case studies, partnerships, or client proof recovered from the supplied materials.
+- [x] Build the neutral Signal-to-Action diagnostic with transparent, non-regulated scoring and a useful next-step recommendation.
+- [x] Add a diagnostic result handoff that routes qualified visitors to the approved paid or advisory offer.
+- [ ] Add a practical lead magnet or diagnostic offer only after its content, delivery method, and follow-up owner are confirmed.
+- [ ] Create a 30-day insights publishing queue based on verified audience questions and commercial intent.
+- [ ] Validate legal, tax, and financial disclaimers before public launch.
+- [ ] Test every revenue path on mobile and desktop, including success, failure, and no-destination states.
+- [x] Produce a clearly labelled working ICP/ECP brief with segment priority, buyer role, trigger, budget logic, objections, and buying signal.
+- [x] Produce a revenue offer ladder with entry diagnostic, core engagement, and expansion path; label pricing as a working model until approved.
+- [x] Inspect available connectors and connect the safest approved CRM or contact destination without exposing secrets in frontend code.
+- [ ] Provide a booking path or prepare the booking handoff; do not purchase or submit sensitive information without explicit confirmation.
+- [x] Add analytics events and document their names, trigger conditions, and intended commercial interpretation.
+- [x] Build a proof-ready module that accepts verified credentials, authorized case studies, and real partner/client evidence without fabricating any.
+- [ ] Save and deliver the updated commercial release checkpoint after build, QA, and integration checks pass.
+- [x] Upgrade the project only if the first-party lead and analytics foundation requires secure backend persistence.
+- [x] Define owned lead, diagnostic response, consent, source, and event data models before implementation.
+- [x] Add a first-party lead capture endpoint with validation, abuse protection, and privacy-safe fields.
+- [x] Store diagnostic completion and Signal Map summaries without collecting sensitive financial data.
+- [x] Add a lightweight first-party conversion event layer for CTA, diagnostic, result, and contact events.
+- [x] Add an internal-ready qualification view or export path for follow-up ownership and CRM handoff.
+- [x] Document retention, consent, and the external integration boundary before collecting live leads.
+- [x] Add the ICP/ECP segment-to-message-to-CTA-to-follow-up matrix to the internal commercial system.
+- [x] Add a documented first-party CRM fallback, CRM handoff/export schema, and connector boundary.
+- [x] Add a CRO experimentation matrix with a hypothesis, event, success threshold, and review cadence for every priority test.
+- [ ] Replace the internal working price bands only after verified delivery scope and real credentials are supplied or authorised.
+- [ ] Assign the follow-up owner and response-service level for every incoming diagnostic or contact lead.
+- [x] Add a proof-vault record model and owner-only intake view for credentials, case studies, and approved partner/client evidence.
+- [ ] Exercise lead capture success, validation error, rate-limit error, and no-external-destination fallback on desktop and mobile.
+- [ ] Replace the provisional follow-up owner label with an approved named owner or role, then confirm the response service level for Signal Map and contact leads.
