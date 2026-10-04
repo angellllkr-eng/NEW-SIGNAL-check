@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AgentOperatorCommand",
+  "type": "object",
+  "required": [
+    "id",
+    "action",
+    "input"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "action": {
+      "type": "string",
+      "minLength": 1
+    },
+    "input": {
+      "type": "object"
+    },
+    "context": {
+      "type": "object"
+    },
+    "requested_by": {
+      "type": "string"
+    },
+    "evidence_required": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": false
+}
